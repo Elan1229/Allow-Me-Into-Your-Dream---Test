@@ -1,4 +1,4 @@
-This is a Unity project using URP rendering pipeline and the Meta Quest SDK.
+This is a Unity project using the URP rendering pipeline and the Meta Quest SDK.
 To run the project, install the following packages:
 - Meta XR Core SDK
 - Meta XR Interaction SDK
